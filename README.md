@@ -10,9 +10,9 @@ This Python script implements a simple bank account management system. Users can
 
    # Bank Attributes:
    
-1.accno: Account number (8 digits).
+1. accno: Account number (8 digits).
 
-2.name: Account holder's name.
+2. name: Account holder's name.
 
 3.balance: Current balance in the account.
 
@@ -38,16 +38,16 @@ This Python script implements a simple bank account management system. Users can
 
 # Usage:
 
-1.Upon running the script, users are prompted to enter their account number and name to create a bank account.
+1. Upon running the script, users are prompted to enter their account number and name to create a bank account.
 
-2.The program then displays a menu with options to display account information, withdraw money, deposit money, change account information, or exit the program.
+2. The program then displays a menu with options to display account information, withdraw money, deposit money, change account information, or exit the program.
 
-3.Users can choose the desired option by entering the corresponding number.
+3. Users can choose the desired option by entering the corresponding number.
 
-4.The program continuously runs until the user chooses to exit.
+4. The program continuously runs until the user chooses to exit.
  
  # Limitations:
 
-1.The script does not implement advanced features such as transaction history, authentication, or error handling for invalid inputs.
+1. The script does not implement advanced features such as transaction history, authentication, or error handling for invalid inputs.
 
-2.It assumes that the account number is always 8 digits long.
+2. It assumes that the account number is always 8 digits long.
