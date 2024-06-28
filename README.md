@@ -18,23 +18,23 @@ This Python script implements a simple bank account management system. Users can
 
 # Methods:
  
-1.__init__(self, accNo, name): Constructor method to initialize the bank account with account number, name, and initial balance of 0.
+1. __init__(self, accNo, name): Constructor method to initialize the bank account with account number, name, and initial balance of 0.
 
-2.display_information(self): Displays the account information including account number, name, and balance.
+2. Display_information(self): Displays the account information including account number, name, and balance.
 
-3.check_balance(self): Checks the current balance of the account.
+3. Check_balance(self): Checks the current balance of the account.
 
-4.deposit(self): Allows the user to deposit money into the account.
+4. Deposit(self): Allows the user to deposit money into the account.
 
-5.withdraw(self): Allows the user to withdraw money from the account.
+5. Withdraw(self): Allows the user to withdraw money from the account.
 
-6.change_information(self): Allows the user to change the account holder's name.
+6. Change_information(self): Allows the user to change the account holder's name.
 
-7.banner(self): Displays the menu options.
+7. Banner(self): Displays the menu options.
 
-8.exit(self): Exits the program.
+8. Exit(self): Exits the program.
 
-9.run(self): Runs the bank account management system by continuously displaying the menu and handling user inputs.
+9. Run(self): Runs the bank account management system by continuously displaying the menu and handling user inputs.
 
 # Usage:
 
